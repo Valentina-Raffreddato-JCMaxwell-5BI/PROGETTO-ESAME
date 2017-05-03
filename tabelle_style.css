@@ -1,0 +1,98 @@
+body {
+	 background-image: url(luxfon_com-9074.jpg);
+	 background-repeat: no-repeat;
+	 background-size: 100%;
+}
+table{
+	
+    margin: auto;
+    border-collapse: collapse;  /*  elimina lo spazio tra i bordi delle diverse celle e tra le celle e il bordo della tabella. */
+    width: 25%;
+}
+
+th, td {
+    padding: 10px;
+    text-align: center; /*l'allineamento orizzontale di un testo.*/
+    
+}
+
+#btn {
+
+    background-image: url(luxfon_com-9074.jpg);
+    border: none;
+    color: blue;
+   
+    text-align: center;
+    text-decoration: none; /**/
+    display: inline-block;
+    font-size: 12px;
+	position:center;
+	padding: 30px 30px;
+	font-size: 20px;
+	
+}
+	#btn1 {
+
+    background-image: url(luxfon_com-9074.jpg);
+    border: none;
+    color: blue;
+   
+    text-align: center;
+    text-decoration: none; /**/
+    display: inline-block;
+    font-size: 8px;
+	position:center;
+	padding: 30px 30px;
+	font-size: 20px;
+    }
+	
+	#btn2 {
+
+	background-image: url(luxfon_com-9074.jpg);
+    border: none;
+    color: blue;
+   
+    text-align: center;
+    text-decoration: none; /**/
+    display: inline-block;
+    font-size: 8px;
+	position:center;
+	padding: 30px 30px;
+	font-size: 20px;
+    }
+	
+	#btn3 {
+
+    background-image: url(luxfon_com-9074.jpg);
+    border: none;
+    color: blue;
+   
+    text-align: center;
+    text-decoration: none; /**/
+    display: inline-block;
+    font-size: 8px;
+	position:center;
+	padding: 30px 30px;
+	font-size: 20px;
+    }
+	
+	#btn4 {
+
+    background-image: url(luxfon_com-9074.jpg);
+    border: none;
+    color: blue;
+   
+    text-align: center;
+    text-decoration: none; /**/
+    display: inline-block;
+    font-size: 8px;
+	position:center;
+	padding: 30px 30px;
+	font-size: 20px;
+    }
+	
+	
+	
+	
+
+	
