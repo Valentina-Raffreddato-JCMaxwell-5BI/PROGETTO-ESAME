@@ -1,6 +1,6 @@
 body {
 	 background-image: url(luxfon_com-9074.jpg);
-	 background-repeat: no-repeat;
+	 background-repeat: no-repeat; 
 	 background-size: 100%;
 }
 table{
@@ -14,8 +14,8 @@ th, td {
     padding: 10px;
     text-align: center; /*l'allineamento orizzontale di un testo.*/
     
-}
-
+} 
+ 
 #btn {
 
     background-image: url(luxfon_com-9074.jpg);
