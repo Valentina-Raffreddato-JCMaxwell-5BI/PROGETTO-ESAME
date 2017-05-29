@@ -9,7 +9,7 @@ Creazione di un portale da integrare nel sito nel sito della scuola per gestire 
   ## ISTRUZIONI: 
   Per realizzare questo progetto si pussono prendere i codici presenti e modificarli per adattarle alle proprie esigenze 
   
- ## Finalità:
+ ## FINALITA':
  Aiutare i docenti a gestire meglio l'utilizzo delle aule e dei laboratori.
  
  
